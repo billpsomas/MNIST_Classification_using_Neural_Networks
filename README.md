@@ -4,7 +4,7 @@ MNIST Classification
 <p align="center">
 
 ## Overview
-This repository contains code written explicitly in [**Python 3**](https://www.python.org/) and especially in [Pytorch](https://pytorch.org/) for MNIST Classification.
+This repository contains code written explicitly in [Python 3](https://www.python.org/) and especially in [Pytorch](https://pytorch.org/) for MNIST Classification.
 
 ## MNIST
 MNIST is a database of handwritten digits that has a training set of 60,000 examples and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image. It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting. More details can be found [here](http://yann.lecun.com/exdb/mnist/).
